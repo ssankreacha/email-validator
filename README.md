@@ -2,6 +2,7 @@
 
 ## 📌 Project Description
 The **Email Validator** is a **Python-based CLI tool** that validates email addresses by checking:
+
 ✅ **Basic email format** (ensuring "@" and valid domain structure).  
 ✅ **Domain existence** (verifies whether the domain has real mail servers).  
 ✅ **Email typo detection** (suggests corrections for common domain typos).  
